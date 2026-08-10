@@ -66,7 +66,7 @@ dependencies**.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/FileOrganizer.git
+git clone https://github.com/sparkzstudios/FileOrganizer.git
 cd FileOrganizer
 
 # 2. (Optional) confirm there is nothing to install
