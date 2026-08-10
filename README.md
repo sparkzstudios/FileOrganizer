@@ -329,4 +329,4 @@ be discussed before implementation.
 
 ## License
 
-Released under the PolyForm Noncommercial License 1.0.0 — free for personal, educational, research, and other noncommercial use. Commercial use requires a separate license from the copyright holder.
+Released under the [MIT License](LICENSE).
